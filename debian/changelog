@@ -1,3 +1,9 @@
+tuxguitar-gpxplugin (0.1.2+suroboyo1) UNRELEASED; urgency=medium
+
+  * adding release version
+
+ -- princeofgiri <princeofgiri@di.blankon.in>  Fri, 20 Jun 2014 18:23:08 +0700
+
 tuxguitar-gpxplugin (0.1.1) suroboyo-updates; urgency=medium
 
   * fixing dependency
