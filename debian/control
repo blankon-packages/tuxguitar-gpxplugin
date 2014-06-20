@@ -1,0 +1,13 @@
+Source: tuxguitar-gpxplugin
+Section: misc
+Priority: optional
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.4
+
+Package: tuxguitar-gpxplugin
+Architecture: all
+Depends: ${misc:Depends}, tuxguitar
+Provides: tuxguitar
+Description: Tuxguitar's plugin for reading latest guitar pro files
+  (.gpx files)
