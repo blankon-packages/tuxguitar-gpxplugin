@@ -7,7 +7,7 @@ Standards-Version: 3.9.4
 
 Package: tuxguitar-gpxplugin
 Architecture: all
-Depends: ${misc:Depends}, tuxguitar
+Depends: ${misc:Depends}
 Provides: tuxguitar
 Description: Tuxguitar's plugin for reading latest guitar pro files
   (.gpx files)
