@@ -1,3 +1,9 @@
+tuxguitar-gpxplugin (0.1.2) tambora; urgency=medium
+
+  * adding to Tambora repository.
+  
+ -- Ahmad Haris <haris@yoga>  Sun, 13 Dec 2015 11:38:09 +0700
+
 tuxguitar-gpxplugin (0.1.2+suroboyo2) suroboyo-updates; urgency=medium
 
   * adding release version
